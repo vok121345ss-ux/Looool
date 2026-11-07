@@ -1,0 +1,15 @@
+
+{
+    "geode": "5.11.2",
+    "gd": {
+        "android": {
+            "early-load": false
+        }
+    },
+    "id": "max.zbv-live",
+    "name": "ZBV Live",
+    "version": "1.0.0",
+    "developer": "Max",
+    "description": "ZBV Live for Geometry Dash Android. Click sounds, MP3 support and click settings.",
+    "dependencies": {}
+}
